@@ -11,5 +11,5 @@ A simple command-line game where you guess a randomly generated number between 1
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/guess-the-number-game.git
+   git clone https://github.com/Jayeshgavit/Guess-the-Number-game-Python-.git
 
